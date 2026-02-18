@@ -74,6 +74,7 @@ if(gekozenNummer <= 3 && gekozenNummer >= 1){
     description.textContent = card.desc;
     description.style.marginBottom = "6px";
     container.appendChild(description);
+    
 
 
 }else{
